@@ -1,0 +1,8 @@
+name: sHub
+version: 1.0
+main: me.aerobyte.sHub
+author: aerobyte
+
+commands:
+  setspawn:
+  spawn:
